@@ -1,6 +1,6 @@
 # Papyrto
 
-Papyrus (Paper) + Quarto
+Papyrus (Paper) + Quarto = Papyrto
 
 This is an adaptation of the board game [Quarto](https://en.wikipedia.org/wiki/Quarto_(board_game)) meant to be played with pen(cil) and paper.
 
@@ -9,6 +9,10 @@ This is an adaptation of the board game [Quarto](https://en.wikipedia.org/wiki/Q
 Draw the play board, a grid with 3 horizontal and 3 vertical lines giving a board 4 squares by 4 squares.
 
 Draw the 4 piece pools. Each pool should have 4 lines total. 2 vertical lines and 2 horizontal lines. 2 dashed lines and 2 solid lines. Two pools use straight lines, two pools use slightly curved lines. Two pools have no dot, two pools have a large dot in the middle. This gives 16 unique 'pieces' each with 4 characteristics. A piece is either vertical or horizontal, dashed or solid, curved or straight, and dotted or not.
+
+<p align="center">
+  <img src="PiecePools+GameBoard.png">
+</p>
 
 # Rules
 
