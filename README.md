@@ -22,13 +22,13 @@ The first player to place a piece which results in 4 pieces in a row that all ha
 
 # Examples
 
-Player 1 selects a piece for Player 2 to place.
+Player 1 (blue ink) selects a piece for Player 2 (green ink) to place.
 
 <p align="center">
   <img src="GameStep1.png">
 </p>
 
-Player 2 places the piece, crosses out the piece they placed, and then selects a piece for Player 1 to place.
+Player 2 (green ink) places the piece, crosses out the piece they placed, and then selects a piece for Player 1 (blue ink) to place.
 
 <p align="center">
   <img src="GameStep2.png">
