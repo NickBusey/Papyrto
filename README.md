@@ -22,7 +22,7 @@ The first player to place a piece which results in 4 pieces in a row that all ha
 
 # Examples
 
-Player 1 (blue ink) selects a piece for Player 2 to place.
+Player 1 (blue ink) selects a piece for Player 2 to place. Note: different ink colors are not necessary during play. They are used here to simplify what is happening.
 
 <p align="center">
   <img src="GameStep1.png">
